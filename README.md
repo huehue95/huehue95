@@ -21,5 +21,11 @@
   </a>
   <img alt="python" src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=03fcec">
   </a>
+    <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=03fcec">
+  </a>
+    <img alt="html" src="https://img.shields.io/badge/-html-black?style=for-the-badge&logo=html5&logoColor=03fcec">
+  </a>
+    <img alt="css" src="https://img.shields.io/badge/-css-black?style=for-the-badge&logo=css3&logoColor=03fcec">
+  </a>
   <img alt="mysql" src="https://img.shields.io/badge/-Mysql-black?style=for-the-badge&logo=Mysql&logoColor=03fcec">
 </div>
