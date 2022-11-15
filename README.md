@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=40F1F7&center=true&width=435&lines=HUEHUE!)](https://git.io/typing-svg)
 
-<a href="https://discord.com/users/798433938879676486">
+<a>
       <img src="https://dcbadge.vercel.app/api/shield/798433938879676486?theme=flat-square" alt="Discord Badge" />
       <img width="200" height="28" src="https://komarev.com/ghpvc/?username=huehue95&style=flat-square&color=03f0fc" alt=""/>
 </a>
