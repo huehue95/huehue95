@@ -13,6 +13,7 @@
 
 <a href="https://github.com/huehue95">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=huehue95&show_icons=true&line_height=27&count_private=true&title_color=03fcec&text_color=03fcec&icon_color=fff&bg_color=121212" />
+  <img align="center" src="https://github-readme-testaustime.vercel.app/api/testaustime?username=huehue&layout=compact&range=999&langs_count=10&text_color=c9d1d9&title_color=c9d1d9&icon_color=fff&bg_color=121212" />
 </a>
   
 <hr />
