@@ -27,16 +27,16 @@
     <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </a>
     <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  </a>
-    <img alt="mysql" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  </a>
-    <img alt="mysql" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  </a>
-    <img alt="mysql" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white  ">
-  </a>
-    <img alt="mysql" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-  </a>
-      <img alt="python" src="https://img.shields.io/badge/koa.js-d1cdcd?style=for-the-badge&logo=koa&logoColor=black">
+<hr />
+    <h3 align="center">Tools</h3>
+    </a>
+      <img alt="node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+    </a>
+      <img alt="tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white  ">
+    </a>
+      <img alt="koa.js" src="https://img.shields.io/badge/koa.js-d1cdcd?style=for-the-badge&logo=koa&logoColor=black">
+    </a>
+    <img alt="react.js" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   </a>
     <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
